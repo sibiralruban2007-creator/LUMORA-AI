@@ -2,6 +2,10 @@
 
 **Think Smart. Work Smarter.**
 
+## Live Demo
+
+🚀 **Explore LUMORA AI:** [Click Here to Open LUMORA AI](https://lumora-ai-dxsgunsibbym4y4jnnvbtj.streamlit.app/)
+
 ## Project Overview
 
 LUMORA AI is an AI-powered Intelligent Learning Assistant designed to make learning easier, smarter, and more effective.
